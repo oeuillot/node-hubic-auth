@@ -1,0 +1,18 @@
+{
+  "name": "hubic-auth",
+  "version": "0.1.0",
+  "description": "Hubic authentification",
+  "main": "lib/authentification.js",
+  "dependencies": {
+  },
+  "scripts": {
+  },
+  "repository": "git://github.com/oeuillot/node-hubic-auth",
+  "keywords": [
+    "Node.js",
+    "hubic"
+  ],
+  "author": "Olivier Oeuillot",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
