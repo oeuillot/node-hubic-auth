@@ -1,9 +1,13 @@
 {
   "name": "hubic-auth",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Hubic authentification",
   "main": "lib/authentification.js",
   "dependencies": {
+    "debug": "^2.2.0"
+  },  
+  "engines": {
+    "node": ">=4.2.0"
   },
   "scripts": {
   },
